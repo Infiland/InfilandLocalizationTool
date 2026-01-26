@@ -1,3 +1,6 @@
+# THIS TOOL IS DEPRECATED
+This tool is deprecated as it uses the old 'id' system. However the problem with the number system is that the code heavily relies on magic numbers. A rewrite is required for this tool to be effective now.
+
 # Infiland's Localization Tool
  A tool used to translate Infiland's games like TCC and Asteroids++, now open source!
 # Purpose
